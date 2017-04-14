@@ -5,8 +5,14 @@ USAGE:
 ------------------------------------------------
 
 apt-get update
+
 apt-get install dnsmasq hostapd
+
 git clone http://github.com/mahyarx/fakeAP
+
 cd fakeAP
+
 chmod +x fakeAP.sh
+
 ./fakeAP.sh
+
