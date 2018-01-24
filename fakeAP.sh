@@ -1,4 +1,5 @@
 #!/bin/bash
+# WELCOME !  http://t.me/mahyartjdini
 read -p "Enter Interface Name : " INTF
 read -p "First IP in DHCP Range : " DH1
 read -p "Last IP in DHCP Range : " DH2
